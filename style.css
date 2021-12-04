@@ -72,7 +72,7 @@ footer{
     width: 100%;
     background: none;
     text-align: center;
-    color: black;
+
 }
 
 .f-text{
@@ -80,7 +80,7 @@ footer{
     padding: 1rem;
     font-size: 1.1rem;
     font-weight: lighter;
-    color: snow;
+    color: #E8C7C8.;
 }
 #mc_embed_signup{
     margin-left: auto;
