@@ -25,13 +25,12 @@ html{
     font-size: 1.3rem;
     font-weight: 500;
     
-    
 }
 body{
     background: url(background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-   
+    
 }
 .main{
     text-align: center;
@@ -44,7 +43,6 @@ body{
 .heading{
     text-align: center;
     font-family: 'Parisienne',cursive;
-    color: #E8C7C8;
 }
 .writing{
     line-height: 3rem;
@@ -56,7 +54,7 @@ body{
 .click{
     font-family: 'Parisienne',cursive;
     width: 50%;
-    color: #E8C7C8;
+    color: rgb(255, 255, 255);
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -130,7 +128,6 @@ footer{
 }
 a{
     text-decoration: none;
-    color: #E8C7C8;
     
 }
 
@@ -157,7 +154,7 @@ a{
 }
 #location{
     background-color: #000;
-    
+    color: white;
     position: absolute;
     margin-top: -8rem;
     right: 2rem;
