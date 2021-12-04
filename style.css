@@ -13,10 +13,10 @@
 }
 ::-webkit-scrollbar-thumb{
     border-radius: 5px;
-    background-color: #570244;
+    background-color: #db4ebd;
 }
 ::-webkit-scrollbar-thumb:hover{
-    background-color: #c3a7c9;
+    background-color: #9620b1;
 }
 
 html{
@@ -43,7 +43,7 @@ body{
 .heading{
     text-align: center;
     font-family: 'Parisienne',cursive;
-    color: purple;
+    color: rgb(201, 78, 201);
 }
 .writing{
     line-height: 3rem;
