@@ -24,15 +24,15 @@ html{
     font-family: cursive;
     font-size: 1.3rem;
     font-weight: 500;
-    background-color:#ff0008;
-    opacity: .4;
+    
     
 }
 body{
     background: url(background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    
+    background-color:#E8C7C8;
+    opacity: 0.7;
 }
 .main{
     text-align: center;
