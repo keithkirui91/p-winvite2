@@ -27,7 +27,7 @@ html{
     
 }
 body{
-    background: url(background.jpg);
+    background: url(background3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -43,6 +43,7 @@ body{
 .heading{
     text-align: center;
     font-family: 'Parisienne',cursive;
+    color: purple;
 }
 .writing{
     line-height: 3rem;
@@ -73,7 +74,7 @@ footer{
     width: 100%;
     background: none;
     text-align: center;
-    color: black;
+    color: purple;
     font-size: 1.2rem;
 
 }
@@ -149,6 +150,7 @@ a{
     font-weight: bold;
     width: 30%;
     padding-bottom: 1rem;
+    color:purple;
 }
 .details{
     width: 30%;
