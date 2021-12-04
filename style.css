@@ -31,8 +31,7 @@ body{
     background: url(background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-color:#E8C7C8;
-    opacity: 2;
+   
 }
 .main{
     text-align: center;
@@ -57,7 +56,7 @@ body{
 .click{
     font-family: 'Parisienne',cursive;
     width: 50%;
-    color: rgb(255, 255, 255);
+    color: #E8C7C8;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -149,7 +148,6 @@ a{
     font-size: 1.5rem;
     font-weight: bold;
     width: 30%;
-    color: #E8C7C8;
     padding-bottom: 1rem;
 }
 .details{
@@ -159,7 +157,7 @@ a{
 }
 #location{
     background-color: #000;
-    color: #E8C7C8;
+    
     position: absolute;
     margin-top: -8rem;
     right: 2rem;
