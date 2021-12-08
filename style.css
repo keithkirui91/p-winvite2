@@ -117,16 +117,7 @@ footer{
     font-family: 'Parisienne',cursive;
 
 }
-#mc-embedded-subscribe{
-    background-color: #5b116b;
-    margin-left: auto;
-    margin-right: auto;
-}
-#mc-embedded-subscribe:hover{
-    background-color: #d000ff;
-    margin-left: auto;
-    margin-right: auto;
-}
+
 .email{
     width: 30%;
     height: 1.8rem;
@@ -138,7 +129,7 @@ footer{
 
 
 .submit-btn{
-  background-color: rgb(184, 8, 8);
+  background-color: rgb(230, 167, 255);
   border: none;
   color: rgb(0, 0, 0);
   padding: 7px 15px;
