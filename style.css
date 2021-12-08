@@ -98,10 +98,9 @@ footer{
     text-align: center;  
     background-color: #cf79bd;  
     border-radius: 10px;
-}
-label{
     font-family: 'Parisienne',cursive;
 }
+
 #mce-FNAME{
     width: 72%;
     height: .8rem;
