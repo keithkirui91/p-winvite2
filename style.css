@@ -103,7 +103,7 @@ footer{
 }
 
 #mce-FNAME{
-    width: 72%;
+    width: 81%;
     height: 2rem;
     margin-left: auto;
     margin-right: auto;
@@ -111,7 +111,7 @@ footer{
 
 }
 #mce-EMAIL{
-    width: 72%;
+    width: 81%;
     height: 2rem;
     margin-left: auto;
     margin-right: auto;
@@ -135,8 +135,6 @@ footer{
 
 a{
     text-decoration: none;
-    font-size: 5rem;
-    
 }
 
 .contact-s{
