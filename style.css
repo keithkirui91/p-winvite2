@@ -117,13 +117,13 @@ footer{
     
 
 }
-#mc-embedded-subscribe{
+.button{
     background-color: #5b116b;
     margin-left: auto;
     margin-right: auto;
     width: 2rem;
 }
-#mc-embedded-subscribe:hover{
+.button:hover{
     background-color: #d000ff;
 
 }
