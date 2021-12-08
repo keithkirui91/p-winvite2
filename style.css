@@ -90,7 +90,6 @@ footer{
 #mc_embed_signup{
     margin-left: auto;
     margin-right: auto;
-    width: 90%;
    
 
 }
@@ -102,7 +101,7 @@ footer{
 }
 
 #mce-FNAME{
-    width: 50%;
+    width: 17rem;
     height: .8rem;
     margin-left: auto;
     margin-right: auto;
