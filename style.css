@@ -118,7 +118,7 @@ footer{
 
 }
 .button{
-    background-color: #5b116b;
+    background-color: #c948e6;
     font-weight: bold;
     margin-left: auto;
     margin-right: auto;
@@ -127,7 +127,8 @@ footer{
     width: 3.2rem;
 }
 .button:hover{
-    background-color: #d000ff;
+    background-color: #74078d;
+    color: #ffffff;
 
 }
 
