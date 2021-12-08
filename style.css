@@ -99,7 +99,7 @@ footer{
     background-color: #cf79bd;  
     border-radius: 10px;
 }
-#mc-field-group{
+label{
     font-family: 'Parisienne',cursive;
 }
 #mce-FNAME{
@@ -107,6 +107,7 @@ footer{
     height: .8rem;
     margin-left: auto;
     margin-right: auto;
+    font-family: 'Parisienne',cursive;
 
 }
 #mce-EMAIL{
@@ -114,6 +115,7 @@ footer{
     height: .8rem;
     margin-left: auto;
     margin-right: auto;
+    font-family: 'Parisienne',cursive;
 
 }
 #mc-embedded-subscribe{
