@@ -106,18 +106,27 @@ footer{
     height: .8rem;
     margin-left: auto;
     margin-right: auto;
- 
+    
 
 }
 #mce-EMAIL{
-    width: 50%;
+    width: 72%;
     height: .8rem;
     margin-left: auto;
     margin-right: auto;
     
 
 }
-
+#mc-embedded-subscribe{
+    background-color: #5b116b;
+    margin-left: auto;
+    margin-right: auto;
+}
+#mc-embedded-subscribe:hover{
+    background-color: #d000ff;
+    margin-left: auto;
+    margin-right: auto;
+}
 .email{
     width: 30%;
     height: 1.8rem;
@@ -127,21 +136,6 @@ footer{
     
 }
 
-
-.submit-btn{
-  background-color: rgb(230, 167, 255);
-  border: none;
-  color: rgb(0, 0, 0);
-  padding: 7px 15px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 12px;
-  font-weight: bold;
-  font-family: Arial, Helvetica, sans-serif;
-  border-radius: 7px;
-
-}
 a{
     text-decoration: none;
     
