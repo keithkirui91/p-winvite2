@@ -96,25 +96,26 @@ footer{
 }
 #mc_embed_signup_scroll{
     text-align: center;  
+    width: 60%;
     background-color: #d19cc4;  
     border-radius: 10px;
     font-family: 'Parisienne',cursive;
 }
 
 #mce-FNAME{
-    width: 17rem;
-    height: .8rem;
+    width: 50%;
+    height: 1rem;
     margin-left: auto;
     margin-right: auto;
-    
+    border-radius: 5px;
 
 }
 #mce-EMAIL{
     width: 50%;
-    height: .8rem;
+    height: 1rem;
     margin-left: auto;
     margin-right: auto;
-    
+    border-radius: 5px;
 
 }
 .button{
