@@ -91,11 +91,12 @@ footer{
 #mc_embed_signup{
     margin-left: auto;
     margin-right: auto;
+    width: 60%;
 }
 #mc_embed_signup_scroll{
     text-align: center;  
-    width: 60%;
     background-color: #d19cc4;  
+    line-height: 2rem;
     border-radius: 10px;
     font-family: 'Parisienne',cursive;
 }
