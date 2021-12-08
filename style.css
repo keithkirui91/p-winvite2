@@ -90,7 +90,7 @@ footer{
 #mc_embed_signup{
     margin-left: auto;
     margin-right: auto;
-    width: 30%;
+    width: 60%;
 
 }
 #mc_embed_signup_scroll{
@@ -99,12 +99,12 @@ footer{
 }
 #mce-FNAME{
     width: 100%;
-    height: 1.7rem;
+    height: 1.2rem;
 
 }
 #mce-EMAIL{
     width: 100%;
-    height: 1.7rem;
+    height: 1.2rem;
 
 }
 .email{
